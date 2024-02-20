@@ -1,4 +1,6 @@
-### Hello World, I'm Mahdieh Anjomshoae  👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+World!+👋;+I'm+Mahdieh+Anjomshoae!;" />
+</h1>
 
 # 💫 About Me:
  Hey there! I'm a frontend developer with a passion for React and Next.js. With 2 years of experience under my belt, I specialize in crafting intuitive user interfaces and seamless web experiences.<br><br>💻 When I'm not coding, you can find me brainstorming new project ideas, collaborating with fellow developers, or immersing myself in the latest tech articles and tutorials.
@@ -16,7 +18,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahdiehanjomshoae&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiehanjomshoae&theme=react&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
