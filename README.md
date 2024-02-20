@@ -21,6 +21,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahdiehanjomshoae&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=mahdiehanjomshoae&icon=0&color=0)](https://visitcount.itsvg.in)
